@@ -1,2 +1,1 @@
-# Probability
-probability experiments simulation
+# Probability simulation
